@@ -1,0 +1,5 @@
+
+welcome to rsk world
+i am happy to help you
+^z
+[1]+ stopped   cat > file1.txt
